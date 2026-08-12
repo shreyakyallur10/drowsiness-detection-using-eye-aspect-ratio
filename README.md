@@ -61,7 +61,7 @@ drowsiness-detection-eye-aspect-ratio/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/drowsiness-detection-eye-aspect-ratio.git
+git clone https://github.com/shreyakyallur10/drowsiness-detection-eye-aspect-ratio.git
 ```
 
 Navigate to the project folder:
